@@ -1,3 +1,6 @@
+## Hi. I'm Aslan.
+
+
 - 🧰 I’m currently working on front-end (JS, CSS3, HTML, REACT NATIVE, TYPESCRIPT)
 - 👀 I’m currently learning front-end (JavaScript, HTML5, React Native, Python, TypeScript and CSS3)
 - 📫 Contact me: aslancarlos63@gmail.com
@@ -16,6 +19,5 @@
   <a href="https://github.com/AslanRibeiro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AslanRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanRibeiro&layout=compact&langs_count=7&theme=dark"/>
-</div>
 </div>
 <img align="right" alt="Aslan" height="150" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/877325808451080262/938665955779833896/animation_500_kz6j8sdv.gif">
