@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/AslanRibeiro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AslanRibeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanRibeiro&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AslanRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanRibeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 <img align="right" alt="Aslan" height="150" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/877325808451080262/938665955779833896/animation_500_kz6j8sdv.gif">
